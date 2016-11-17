@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula06 App Cal</string>
+    <string name="lblValor1">Valor1</string>
+    <string name="lblValor2">Valor 2</string>
+</resources>
